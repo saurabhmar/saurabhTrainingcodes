@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "first_name": "saurav",
+      "last_name": "b",
+      "email": "sau@gmail.com",
+      "password": "123",
+      "mobile": "1234456",
+      "id": "1"
+    },
+    {
+      "first_name": "shruti",
+      "last_name": "b",
+      "email": "shr@gmail.com",
+      "password": "123",
+      "mobile": "1234567",
+      "id": "UfUA3OZ"
+    },
+    {
+      "first_name": "shrutika",
+      "last_name": "bhatt",
+      "email": "shrutika@gmail.com",
+      "password": "111",
+      "mobile": "1234567",
+      "id": "77AkTzb"
+    },
+    {
+      "first_name": "fvf",
+      "last_name": "vsavb",
+      "email": "ss@fngmn",
+      "password": "asd",
+      "mobile": "4576",
+      "id": "WXL5sZi"
+    },
+    {
+      "first_name": "xyuh",
+      "last_name": "ergw",
+      "email": "shr@gmail.com",
+      "password": "errrg",
+      "mobile": "1234567",
+      "id": "yyU2rIo"
+    },
+    {
+      "first_name": "siddhi",
+      "last_name": "tripathi",
+      "email": "siddhi@cybage.com",
+      "password": "123",
+      "mobile": "123456789",
+      "id": "C1JVJrD"
+    },
+    {
+      "first_name": "aa",
+      "last_name": "bb",
+      "email": "aa@gmail.com",
+      "password": "123",
+      "mobile": "12334568fg",
+      "id": "wAk8WM-"
+    },
+    {
+      "first_name": "aa",
+      "last_name": "bb",
+      "email": "wfdsvsv@",
+      "password": "1243",
+      "mobile": "132125365475687869679",
+      "id": "jCpSXh_"
+    },
+    {
+      "first_name": "saurabh",
+      "last_name": "marathe",
+      "email": "saurabh@gmail.com",
+      "password": "1234",
+      "mobile": "123456789",
+      "id": "XBfp_vy"
+    },
+    {
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": "_0TAmlU"
+    },
+    {
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": "qZvP5rK"
+    }
+  ]
+}
